@@ -1,4 +1,5 @@
-greeting = "Welcome to Text-Based Wordle\nIt can be played offline and is console based"
+greeting = """Welcome to Text-Based Wordle
+It can be played offline and is console based"""
 answer="WHINE"
 import json
 import time
